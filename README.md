@@ -14,8 +14,8 @@ This Data Visualization Dashboard is a comprehensive tool built with React, show
 Clone the repository and install dependencies to get started with the dashboard.
 
 ```bash
-git clone https://github.com/your-username/your-dashboard-repo.git
-cd your-dashboard-repo
+git clone https://github.com/asma-hachaichi/dashboard-template.git
+cd dashboard-template
 npm install
 npm start
 ```
