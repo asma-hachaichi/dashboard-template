@@ -1,6 +1,7 @@
 # Data Visualization Dashboard
 
-This Data Visualization Dashboard is a comprehensive tool built with React, showcasing interactive data analytics through React-ApexCharts. It features a responsive design that adapts seamlessly across devices, ensuring accessibility and ease of use. With a dynamic carousel of charts, a wide array of visualizations, and detailed data tables, this dashboard delivers an immersive experience in data exploration and analysis.
+This Data Visualization Dashboard is a comprehensive tool built with React, showcasing interactive data analytics through React-ApexCharts. 
+It features a responsive design that adapts seamlessly across devices, ensuring accessibility and ease of use. With a dynamic carousel of charts, a wide array of visualizations, and detailed data tables, this dashboard delivers an immersive experience in data exploration and analysis.
 
 ## Key Features
 
